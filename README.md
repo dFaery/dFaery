@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dFaery
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning basic python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
