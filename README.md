@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @dFaery
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎓 I'm a Computer Science student at Universitas Surabaya, currently exploring the world of Information Technology — especially in the fields of Data Science, Artificial Intelligence, and UI/UX Design.
 
-<!---
-dFaery/dFaery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm passionate about turning data into meaningful insights and creating digital experiences that are both functional and intuitive. Whether it's analyzing patterns or designing user flows, I enjoy learning by building and collaborating.
