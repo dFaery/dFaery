@@ -1,1 +1,1 @@
-🎓 I'm a Computer Science student at Universitas Surabaya, currently exploring the world of Information Technology — especially in the fields of Data Science, Artificial Intelligence, and UI/UX Design.
+Computer Science student at Universitas Surabaya, currently exploring the world of Information Technology — especially in the fields of Data Science, Artificial Intelligence, and Software Programming.
