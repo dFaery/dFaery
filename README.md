@@ -37,7 +37,7 @@ I am a 6th-semester Informatics Engineering student at Universitas Surabaya (Uba
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dFaery&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dFaery&show_icons=true&theme=github_dark&hide_border=true" height="195"/>
   <img src="https://streak-stats.demolab.com/?user=dFaery&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" height="195"/>
 </div>
 
